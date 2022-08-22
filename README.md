@@ -2,6 +2,9 @@
 ML-Eg-Eformation-HeatMap-FitingML-CrossValid-SR_wrong-predict_excel; accuracy should be further improved
 
 
+## 最重要的ipynb:    ML.ipynb
+
+
 ## 输入文件需准备好：
 
 Bandgap.xlsx 原始数据（输入特征和输出标签band gap 都有）
