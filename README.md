@@ -20,5 +20,4 @@ Periodic Table of Elements.csv   元素的一些描述符， 可以加个容忍�
 
 
 
-# ML-ModelAccuracyPoor文件夹
-add the ML model, this time ML model established, but poor accuracy!!!
+
